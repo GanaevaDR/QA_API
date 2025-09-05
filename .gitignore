@@ -1,0 +1,6 @@
+# .gitignore
+credentials.json
+.env
+*.secret
+__pycache__/
+*.pyc
